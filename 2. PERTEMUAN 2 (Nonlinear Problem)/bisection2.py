@@ -27,3 +27,7 @@ def bisection(a,b,eps):
         print(i,a,b,c,error)
 
 bisection(0.5,0.9,0.01)
+
+# print (fungsi(1)) 
+# print (fungsi(2))
+# print (fungsi(1)*fungsi(2))

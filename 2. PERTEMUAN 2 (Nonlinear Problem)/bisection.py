@@ -21,7 +21,7 @@ def bisection(a,b,eps):
 bisection(0,1,0.001)
 
 #cek fungsi apakah bisa untuk bisection: jika kedua fungsi berbeda tandanya, maka bisa digunakan untuk bisection
-#print (fungsi(1)) 
-#print (fungsi(2))
+# print (fungsi(1)) 
+# print (fungsi(2))
 
 
